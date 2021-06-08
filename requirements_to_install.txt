@@ -1,0 +1,14 @@
+
+# dev tools
+pandas
+numpy
+sklearn
+jupyterlab
+jupyterlab-code-formatter # will be shown as installed extension in jupyter-lab
+jupyter_contrib_nbextensions # will be shown as installed extension in jupyter-lab
+pandas-profiling[notebook]
+openpyxl
+black
+nb_black
+
+plotly
